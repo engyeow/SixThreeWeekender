@@ -9,7 +9,7 @@ export default function TournamentDetails() {
     <section className="py-24 bg-background">
       <div className="container px-4 mx-auto">
         <div className="mb-16 border-b border-border pb-8">
-          <span className="section-label">Tournament</span>
+          <span className="section-label">Edition</span>
           <h2 className="text-5xl font-display italic">1. Six Three Weekender</h2>
         </div>
 
@@ -51,7 +51,7 @@ export default function TournamentDetails() {
               />
               <InfoItem 
                 icon={<Users className="w-4 h-4" />} 
-                title="Structure" 
+                title="Roster" 
                 description="10 Players" 
               />
               <InfoItem 
