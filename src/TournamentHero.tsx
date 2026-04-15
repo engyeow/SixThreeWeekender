@@ -12,7 +12,7 @@ export default function TournamentHero() {
         >
           <h1 className="text-7xl md:text-[120px] font-display font-normal mb-8 leading-[0.85] tracking-[-0.04em] uppercase">
             Six Three <br />
-            <span className="italic text-accent ml-10 md:ml-20 block">Weekender</span>
+            <span className="italic text-accent ml-6 sm:ml-10 md:ml-20 block">Weekender</span>
           </h1>
           
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-12 mt-12">
