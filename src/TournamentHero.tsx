@@ -10,7 +10,7 @@ export default function TournamentHero() {
           transition={{ duration: 0.6 }}
           className="max-w-5xl"
         >
-          <h1 className="text-7xl md:text-[120px] font-display font-normal mb-8 leading-[0.85] tracking-[-0.04em] uppercase">
+          <h1 className="text-5xl sm:text-7xl md:text-[120px] font-display font-normal mb-8 leading-[0.9] md:leading-[0.85] tracking-[-0.04em] uppercase">
             Six Three <br />
             <span className="italic text-accent ml-6 sm:ml-10 md:ml-20 block">Weekender</span>
           </h1>
