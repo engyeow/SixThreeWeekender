@@ -31,7 +31,7 @@ export default function TournamentDetails() {
                 </li>
                 <li className="flex items-start gap-3">
                   <span className="text-accent font-bold">—</span>
-                  Draws permitted only after Black's 10th move
+                  Agreed draws must be after Black's 10th move
                 </li>
                 <li className="flex items-start gap-3">
                   <span className="text-accent font-bold">—</span>
