@@ -22,13 +22,3 @@ export default defineConfig(({mode}) => {
     },
   };
 });
-
-export default {
-  theme: {
-    extend: {
-      colors: {
-        accent: '#ffc300', // your custom accent color
-      },
-    },
-  },
-}
