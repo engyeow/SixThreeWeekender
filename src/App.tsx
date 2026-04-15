@@ -4,7 +4,7 @@ import TournamentRules from "./TournamentRules";
 import { Button } from "./button";
 import { ChevronRight } from "lucide-react";
 
-const SHOW_REGISTRATION = true; // Toggle this to show/hide the registration section
+const SHOW_REGISTRATION = false; // Toggle this to show/hide the registration section
 
 export default function App() {
   return (
