@@ -18,7 +18,7 @@ export default function TournamentHero() {
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-12 mt-12">
             <div className="max-w-xl">
               <p className="text-lg md:text-xl text-muted-foreground font-normal leading-relaxed">
-                The Six Three Weekender Chess Tournament is played in a classical round-robin format and takes place in the Civic District of Singapore.
+                The Six Three Weekender Chess Tournament is played in a classical round-robin format and takes place in the Civic District of Singapore. The eponymous "Six Three" format challenges players to a battle of wits across two days, each with six rounds and three rounds respectively.
               </p>
             </div>
             
