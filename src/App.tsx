@@ -22,7 +22,7 @@ export default function App() {
                 <div className="text-left">
                   <span className="section-label text-white/40">Registration</span>
                   <h2 className="text-5xl font-display italic mb-4">Ready to Compete?</h2>
-                  <p className="text-lg text-white/90 max-w-md">
+                  <p className="text-lg md:text-xl text-muted-foreground font-normal leading-relaxed">
                     Join 9 other chess enthusiasts for a weekend of fun classical chess in Singapore.
                   </p>
                 </div>
